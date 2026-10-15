@@ -1,0 +1,6 @@
+{
+  "name": "Milestone",
+  "description": "Personal goal tracker with motivational milestone checklists, progress rings, and celebratory achievement rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
